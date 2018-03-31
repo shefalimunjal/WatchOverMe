@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WatchOverMe</string>
+    <string name="message">I am not safe, please help!</string>
+    <string name="safe_message">I\'m safe!</string>
+    <string name="unsafe_message">Help me!</string>
+    <integer-array name="tutorial_pages">
+        <item >@drawable/tutorial_page1</item>
+        <item>@drawable/app_icon</item>
+        <item>@drawable/theft</item>
+        <item>@drawable/medical</item>
+    </integer-array>
+</resources>

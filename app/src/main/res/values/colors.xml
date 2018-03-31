@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#5D449A</color>
+    <color name="blue">#5999C7</color>
+    <color name="red">#DF4735</color>
+    <color name="green">#168f28</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fire">#F2A629</color>
+    <color name="purple">#9013FE</color>
+    <color name="brown">#8B572A</color>
+    <color name="light_grey">#e7e4e4</color>
+    <color name="dark_grey">#a6a1a1</color>
+    <color name="nav_bar_text">#716f7b</color>
+</resources>
